@@ -1,7 +1,7 @@
-# Lab-3 
+# Lab-3
 
-Project:Madlib <br>
-Author: Anthony Hill<br>
+Project:Madlib. <br>
+Author: Anthony Hill.<br>
 Links: [Madlib](https://www.teachwithict.com/mad_libs.html) 
 
 
